@@ -1,0 +1,12 @@
+{
+  "name": "yevgeniy/uaservice1",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\UserAgentService1\\": "./src"
+    }
+  },
+  "require": {
+    "ua-parser/uap-php": "^3.9",
+    "yevgeniy/uainterface": "^1.0.0"
+  }
+}
