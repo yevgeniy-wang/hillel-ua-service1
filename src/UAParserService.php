@@ -4,6 +4,7 @@
 namespace Hillel\UserAgentService1;
 
 use UAParser\Parser;
+use Hillel\UserAgentInterface\UserAgentServiceInterface;
 
 class UAParserService implements UserAgentServiceInterface
 {
